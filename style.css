@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(226, 235, 243);
+}
+.main{
+    position: relative;
+}
+.caja{
+    background-color: white;
+    border: 2px solid;
+    width: 40vh;
+    height: 40vh;
+    position: relative;
+    overflow: hidden;border-radius: 5px;
+}
+.head{
+    width: 40vh;
+    height: 20vh;
+    position: relative;
+}
+.circulo{
+    background-color: rgb(42, 124, 70);
+    width: 40vh;
+    height: 40vh;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+}
+.contenido{
+    text-align: center;
+}
